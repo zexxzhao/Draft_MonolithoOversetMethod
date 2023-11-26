@@ -1,0 +1,404 @@
+\begin{thebibliography}{79}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Tezduyar(2004)]{tezduyar2004finite}
+T.~E. Tezduyar.
+\newblock Finite element methods for fluid dynamics with moving boundaries and interfaces.
+\newblock \emph{Encyclopedia of Computational Mechanics}, 2004.
+
+\bibitem[Masud and Calderer(2013)]{Masud4}
+A.~Masud and R.~Calderer.
+\newblock Residual-based turbulence models for moving boundary flows: hierarchical application of variational multiscale method and three-level scale separation.
+\newblock \emph{International Journal for Numerical Methods in Fluids}, 73\penalty0 (3):\penalty0 284--305, 2013.
+
+\bibitem[Tezduyar et~al.(1992)Tezduyar, Behr, and Liou]{Tezduyar92a}
+T.~E. Tezduyar, M.~Behr, and J.~Liou.
+\newblock A new strategy for finite element computations involving moving boundaries and interfaces -- the deforming-spatial-domain/space--time procedure: {I}.~{T}he concept and the preliminary numerical tests.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 94\penalty0 (3):\penalty0 339--351, 1992.
+
+\bibitem[Tezduyar et~al.(2008)Tezduyar, Sathe, Pausewang, Schwaab, Christopher, and Crabtree]{Tezduyar08a}
+T.~E. Tezduyar, S.~Sathe, J.~Pausewang, M.~Schwaab, J.~Christopher, and J.~Crabtree.
+\newblock Interface projection techniques for fluid--structure interaction modeling with moving-mesh methods.
+\newblock \emph{Computational Mechanics}, 43:\penalty0 39--49, 2008.
+\newblock \doi{10.1007/s00466-008-0261-7}.
+
+\bibitem[Peskin(1972)]{Peskin72}
+C.~S. Peskin.
+\newblock Flow patterns around heart valves: a numerical method.
+\newblock \emph{Journal of Computational Physics}, 10\penalty0 (2):\penalty0 252--271, 1972.
+
+\bibitem[Parvizian et~al.(2007)Parvizian, D\"{u}ster, and Rank]{Parvizian2007}
+J.~Parvizian, A.~D\"{u}ster, and E.~Rank.
+\newblock Finite cell method: \textit{h}- and \textit{p}- extension for embedded domain methods in solid mechanics.
+\newblock \emph{Computational Mechanics}, 41:\penalty0 122--133, 2007.
+
+\bibitem[D{\"u}ster et~al.(2008)D{\"u}ster, Parvizian, Yang, and Rank]{duster2008finite}
+A.~D{\"u}ster, J.~Parvizian, Z.~Yang, and E.~Rank.
+\newblock The finite cell method for three-dimensional problems of solid mechanics.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 197\penalty0 (45-48):\penalty0 3768--3782, 2008.
+
+\bibitem[Xu et~al.(2016{\natexlab{a}})Xu, Schillinger, Kamensky, Varduhn, Wang, and Hsu]{xu2016fcm}
+F.~Xu, D.~Schillinger, D.~Kamensky, V.~Varduhn, C.~Wang, and M.C. Hsu.
+\newblock The tetrahedral finite cell method for fluids: Immersogeometric analysis of turbulent flow around complex geometries.
+\newblock \emph{Computers \& Fluids}, 141:\penalty0 135--154, 2016{\natexlab{a}}.
+
+\bibitem[Main and Scovazzi(2018{\natexlab{a}})]{main2018shifteda}
+A.~Main and G.~Scovazzi.
+\newblock {The shifted boundary method for embedded domain computations. Part II: Linear advection--diffusion and incompressible Navier--Stokes equations}.
+\newblock \emph{Journal of Computational Physics}, 372:\penalty0 996--1026, 2018{\natexlab{a}}.
+
+\bibitem[Main and Scovazzi(2018{\natexlab{b}})]{main2018shiftedb}
+A.~Main and G.~Scovazzi.
+\newblock {The shifted boundary method for embedded domain computations. Part I: Poisson and Stokes problems}.
+\newblock \emph{Journal of Computational Physics}, 372:\penalty0 972--995, 2018{\natexlab{b}}.
+
+\bibitem[Song et~al.(2018)Song, Main, Scovazzi, and Ricchiuto]{song2018shifted}
+T.~Song, A.~Main, G.~Scovazzi, and M.~Ricchiuto.
+\newblock The shifted boundary method for hyperbolic systems: Embedded domain computations of linear waves and shallow water flows.
+\newblock \emph{Journal of Computational Physics}, 369:\penalty0 45--79, 2018.
+
+\bibitem[Li et~al.(2020)Li, Atallah, Main, and Scovazzi]{li2020shifted}
+K.~Li, N.~Atallah, A.~Main, and G.~Scovazzi.
+\newblock The shifted interface method: A flexible approach to embedded interface computations.
+\newblock \emph{International Journal for Numerical Methods in Engineering}, 121\penalty0 (3):\penalty0 492--518, 2020.
+
+\bibitem[Colom{\'e}s et~al.(2021)Colom{\'e}s, Main, Nouveau, and Scovazzi]{colomes2021weighted}
+O.~Colom{\'e}s, A.~Main, L.~Nouveau, and G.~Scovazzi.
+\newblock A weighted shifted boundary method for free surface flow problems.
+\newblock \emph{Journal of Computational Physics}, 424:\penalty0 109837, 2021.
+
+\bibitem[Hansbo and Hansbo(2002)]{hansbo2002unfitted}
+A.~Hansbo and P.~Hansbo.
+\newblock An unfitted finite element method, based on nitsche’s method, for elliptic interface problems.
+\newblock \emph{Computer methods in applied mechanics and engineering}, 191\penalty0 (47-48):\penalty0 5537--5552, 2002.
+
+\bibitem[Bazilevs et~al.(2017{\natexlab{a}})Bazilevs, Kamran, Moutsanidis, Benson, and O{\~n}ate]{Bazilevs2017a}
+Y.~Bazilevs, K.~Kamran, G.~Moutsanidis, D.~J. Benson, and E.~O{\~n}ate.
+\newblock A new formulation for air-blast fluid--structure interaction using an immersed approach. {P}art {I}: basic methodology and {FEM}-based simulations.
+\newblock \emph{Computational Mechanics}, 60\penalty0 (1):\penalty0 83--100, 2017{\natexlab{a}}.
+
+\bibitem[Bazilevs et~al.(2017{\natexlab{b}})Bazilevs, Moutsanidis, Bueno, Kamran, Kamensky, Hillman, Gomez, and Chen]{Bazilevs2017b}
+Y.~Bazilevs, G.~Moutsanidis, J.~Bueno, K.~Kamran, D.~Kamensky, M.~C. Hillman, H.~Gomez, and J.~S. Chen.
+\newblock A new formulation for air-blast fluid--structure interaction using an immersed approach: {P}art {II}---coupling of {IGA} and meshfree discretizations.
+\newblock \emph{Computational Mechanics}, 60\penalty0 (1):\penalty0 101--116, 2017{\natexlab{b}}.
+
+\bibitem[Behzadinasab et~al.(2021)Behzadinasab, Moutsanidis, Trask, Foster, and Bazilevs]{behzadinasab2021coupling}
+M.~Behzadinasab, G.~Moutsanidis, N.~Trask, J.~Foster, and Y.~Bazilevs.
+\newblock Coupling of iga and peridynamics for air-blast fluid-structure interaction using an immersed approach.
+\newblock \emph{Forces in Mechanics}, 4:\penalty0 100045, 2021.
+
+\bibitem[Moutsanidis et~al.(2020)Moutsanidis, Koester, Tupek, Chen, and Bazilevs]{moutsanidis2020treatment}
+G.~Moutsanidis, J.~Koester, M.~Tupek, J.~Chen, and Y.~Bazilevs.
+\newblock Treatment of near-incompressibility in meshfree and immersed-particle methods.
+\newblock \emph{Computational particle mechanics}, 7\penalty0 (2):\penalty0 309--327, 2020.
+
+\bibitem[Moutsanidis et~al.(2018)Moutsanidis, Kamensky, Chen, and Bazilevs]{moutsanidis2018hyperbolic}
+G.~Moutsanidis, D.~Kamensky, J.~Chen, and Y.~Bazilevs.
+\newblock Hyperbolic phase field modeling of brittle fracture: Part ii—immersed iga--rkpm coupling for air-blast--structure interaction.
+\newblock \emph{Journal of the Mechanics and Physics of Solids}, 121:\penalty0 114--132, 2018.
+
+\bibitem[Liu et~al.(2006)Liu, Liu, Farrell, Zhang, Wang, Fukui, Patankar, Zhang, Bajaj, Lee, et~al.]{IFEM1}
+W.~K. Liu, Y.~Liu, D.~Farrell, L.~Zhang, X.~S. Wang, Y.~Fukui, N.~Patankar, Y.~Zhang, C.~Bajaj, J.~Lee, et~al.
+\newblock Immersed finite element method and its applications to biological systems.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 195\penalty0 (13-16):\penalty0 1722--1749, 2006.
+
+\bibitem[Zhang et~al.(2004)Zhang, Gerstenberger, Wang, and Liu]{IFEM2}
+L.~Zhang, A.~Gerstenberger, X.~Wang, and W.~Liu.
+\newblock Immersed finite element method.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 193\penalty0 (21-22):\penalty0 2051--2067, 2004.
+
+\bibitem[Zhang and Gay(2007)]{IFEM3}
+L.~T. Zhang and M.~Gay.
+\newblock Immersed finite element method for fluid-structure interactions.
+\newblock \emph{Journal of Fluids and Structures}, 23\penalty0 (6):\penalty0 839--857, 2007.
+
+\bibitem[Wang and Zhang(2010)]{IFEM4}
+X.~Wang and L.~Zhang.
+\newblock Interpolation functions in the immersed boundary and finite element methods.
+\newblock \emph{Computational Mechanics}, 45\penalty0 (4):\penalty0 321--334, 2010.
+
+\bibitem[Wang et~al.(2009)Wang, Zhang, and Liu]{IFEM5}
+X.~Wang, L.~Zhang, and W.~Liu.
+\newblock On computational issues of immersed finite element methods.
+\newblock \emph{Journal of Computational Physics}, 228\penalty0 (7):\penalty0 2535--2551, 2009.
+
+\bibitem[Wang and Zhang(2013)]{IFEM6}
+X.~Wang and L.~Zhang.
+\newblock Modified immersed finite element method for fully-coupled fluid--structure interactions.
+\newblock \emph{Computer methods in applied mechanics and engineering}, 267:\penalty0 150--169, 2013.
+
+\bibitem[Schillinger et~al.(2012)Schillinger, Dede, Scott, Evans, Borden, Rank, and Hughes]{schillinger2012isogeometric}
+D.~Schillinger, L.~Dede, M.~A. Scott, J.~Evans, M.~Borden, E.~Rank, and T.~Hughes.
+\newblock An isogeometric design-through-analysis methodology based on adaptive hierarchical refinement of nurbs, immersed boundary methods, and t-spline cad surfaces.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 249:\penalty0 116--150, 2012.
+
+\bibitem[Hsu et~al.(2015)Hsu, Kamensky, Xu, Kiendl, Wang, Wu, Mineroff, Reali, Bazilevs, and Sacks]{Hsu15fb}
+M.-C. Hsu, D.~Kamensky, F.~Xu, J.~Kiendl, C.~Wang, M.~C.~H. Wu, J.~Mineroff, A.~Reali, Y.~Bazilevs, and M.~S. Sacks.
+\newblock {Dynamic and fluid--structure interaction simulations of bioprosthetic heart valves using parametric design with T-splines and Fung-type material models}.
+\newblock \emph{Computational Mechanics}, 55:\penalty0 1211--1225, 2015.
+
+\bibitem[Kamensky et~al.(2015)Kamensky, Hsu, Schillinger, Evans, Aggarwal, Bazilevs, Sacks, and Hughes]{Kamensky15ch}
+D.~Kamensky, M.-C. Hsu, D.~Schillinger, J.~A. Evans, A.~Aggarwal, Y.~Bazilevs, M.~S. Sacks, and T.~J.~R. Hughes.
+\newblock {An immersogeometric variational framework for fluid--structure interaction: Application to bioprosthetic heart valves}.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 284:\penalty0 1005--1053, 2015.
+
+\bibitem[Zhu et~al.(2020)Zhu, Xu, Xu, Hsu, and Yan]{zhu2020immersogeometric}
+Q.~Zhu, F.~Xu, S.~Xu, M.~Hsu, and J.~Yan.
+\newblock An immersogeometric formulation for free-surface flows with application to marine engineering problems.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 361:\penalty0 112748, 2020.
+
+\bibitem[Zhao and Yan(2022)]{zhao2022enriched}
+Z.~Zhao and J.~Yan.
+\newblock Enriched immersed boundary method (eibm) for interface-coupled multi-physics and applications to convective conjugate heat transfer.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 401:\penalty0 115667, 2022.
+
+\bibitem[Volkov(1968)]{volkov1968method}
+E.~Volkov.
+\newblock The method of composite meshes for finite and infinite regions with piecewise smooth boundary.
+\newblock \emph{Trudy Matematicheskogo Instituta imeni VA Steklova}, 96:\penalty0 117--148, 1968.
+
+\bibitem[Henshaw(1994)]{henshaw1994fourth}
+W.~Henshaw.
+\newblock A fourth-order accurate method for the incompressible navier-stokes equations on overlapping grids.
+\newblock \emph{Journal of computational physics}, 113\penalty0 (1):\penalty0 13--25, 1994.
+
+\bibitem[Henshaw and Chand(2009)]{henshaw2009composite}
+W.~Henshaw and K.~Chand.
+\newblock A composite grid solver for conjugate heat transfer in fluid--structure systems.
+\newblock \emph{Journal of Computational Physics}, 228\penalty0 (10):\penalty0 3708--3741, 2009.
+
+\bibitem[Appel{\"o} et~al.(2012)Appel{\"o}, Banks, Henshaw, and Schwendeman]{appelo2012numerical}
+D.~Appel{\"o}, J.~Banks, W.~Henshaw, and D.~Schwendeman.
+\newblock Numerical methods for solid mechanics on overlapping grids: Linear elasticity.
+\newblock \emph{Journal of Computational Physics}, 231\penalty0 (18):\penalty0 6012--6050, 2012.
+
+\bibitem[Koblitz et~al.(2017)Koblitz, Lovett, Nikiforakis, and Henshaw]{koblitz2017direct}
+A.~Koblitz, S.~Lovett, N.~Nikiforakis, and W.~Henshaw.
+\newblock Direct numerical simulation of particulate flows with an overset grid method.
+\newblock \emph{Journal of computational physics}, 343:\penalty0 414--431, 2017.
+
+\bibitem[Meng et~al.(2020)Meng, Banks, Henshaw, and Schwendeman]{meng2020fourth}
+F.~Meng, J.~Banks, W.~Henshaw, and D.~Schwendeman.
+\newblock Fourth-order accurate fractional-step imex schemes for the incompressible navier--stokes equations on moving overlapping grids.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 366:\penalty0 113040, 2020.
+
+\bibitem[Meakin(1993)]{overset1}
+R.~Meakin.
+\newblock Moving body overset grid methods for complete aircraft tiltrotor simulations.
+\newblock In \emph{11th Computational Fluid Dynamics Conference}, page 3350, 1993.
+
+\bibitem[Chan(2009)]{overset2}
+W.~Chan.
+\newblock Overset grid technology development at nasa ames research center.
+\newblock \emph{Computers \& Fluids}, 38\penalty0 (3):\penalty0 496--503, 2009.
+
+\bibitem[Chandar and Damodaran(2010)]{overset3}
+D.~Chandar and M.~Damodaran.
+\newblock Numerical study of the free flight characteristics of a flapping wing in low reynolds numbers.
+\newblock \emph{AIAA J. Aircraft}, 47\penalty0 (1):\penalty0 141--150, 2010.
+
+\bibitem[Lani et~al.(2013)Lani, Sj{\"o}green, Yee, and Henshaw]{overset4}
+A.~Lani, B.~Sj{\"o}green, H.~Yee, and W.~Henshaw.
+\newblock Variable high-order multiblock overlapping grid methods for mixed steady and unsteady multiscale viscous flows, part ii: hypersonic nonequilibrium flows.
+\newblock \emph{Communications in Computational Physics}, 13\penalty0 (2):\penalty0 583--602, 2013.
+
+\bibitem[Zhao et~al.(2023)Zhao, Zhu, Karuppiah, Stuebner, Lua, Phan, and Yan]{zhao2023computational}
+Z.~Zhao, Q.~Zhu, A.~Karuppiah, M.~Stuebner, J.~Lua, N.~Phan, and J.~Yan.
+\newblock Computational multi-phase convective conjugate heat transfer on overlapping meshes: a quasi-direct coupling approach via schwarz alternating method.
+\newblock \emph{Computational Mechanics}, 71\penalty0 (1):\penalty0 71--88, 2023.
+
+\bibitem[Schwarz(1869)]{Schwarz1869}
+H.~Schwarz.
+\newblock Ueber einige abbildungsaufgaben.
+\newblock \emph{Journal für die reine und angewandte Mathematik}, 1869\penalty0 (70):\penalty0 105--120, 1869.
+
+\bibitem[Tang et~al.(2021)Tang, Haynes, and Houzeaux]{tang2021review}
+H.~Tang, R.~Haynes, and G.~Houzeaux.
+\newblock A review of domain decomposition methods for simulation of fluid flows: Concepts, algorithms, and applications.
+\newblock \emph{Archives of Computational Methods in Engineering}, 28:\penalty0 841--873, 2021.
+
+\bibitem[Dolean et~al.(2015)Dolean, Jolivet, and Nataf]{dolean2015introduction}
+V.~Dolean, P.~Jolivet, and F.~Nataf.
+\newblock \emph{An introduction to domain decomposition methods: algorithms, theory, and parallel implementation}.
+\newblock SIAM, 2015.
+
+\bibitem[Gander(2008)]{gander2008schwarz}
+M.~Gander.
+\newblock Schwarz methods over the course of time.
+\newblock \emph{Electron. Trans. Numer. Anal}, 31\penalty0 (5):\penalty0 228--255, 2008.
+
+\bibitem[Oliger et~al.(1986)Oliger, Skamarock, and Tang]{oliger1986convergence}
+J.~Oliger, W.~Skamarock, and W.~Tang.
+\newblock Convergence analysis and acceleration of the schwarz alternating method.
+\newblock In \emph{Stanford Tech. Report}. Stanford Univ Stanford, 1986.
+
+\bibitem[Nataf et~al.(1994)Nataf, Rogier, and de~Sturler]{nataf1994optimal}
+F.~Nataf, F.~Rogier, and E.~de~Sturler.
+\newblock \emph{Optimal interface conditions for domain decomposition methods}.
+\newblock PhD thesis, CMAP Ecole Polytechnique, 1994.
+
+\bibitem[Gander and Zhang(2022)]{gander2022schwarz}
+M.~Gander and H.~Zhang.
+\newblock Schwarz methods by domain truncation.
+\newblock \emph{Acta Numerica}, 31:\penalty0 1--134, 2022.
+
+\bibitem[Martin(2005)]{martin2005optimized}
+V.~Martin.
+\newblock An optimized schwarz waveform relaxation method for the unsteady convection diffusion equation in two dimensions.
+\newblock \emph{Applied Numerical Mathematics}, 52\penalty0 (4):\penalty0 401--428, 2005.
+
+\bibitem[Mota et~al.(2017)Mota, Tezaur, and Alleman]{mota2017schwarz}
+A.~Mota, I.~Tezaur, and C.~Alleman.
+\newblock The schwarz alternating method in solid mechanics.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 319:\penalty0 19--51, 2017.
+
+\bibitem[Alcin et~al.(2013)Alcin, Koobus, Allain, and Dervieux]{alcin2013efficiency}
+H.~Alcin, B.~Koobus, O.~Allain, and A.~Dervieux.
+\newblock Efficiency and scalability of a two-level schwarz algorithm for incompressible and compressible flows.
+\newblock \emph{International Journal for Numerical Methods in Fluids}, 72\penalty0 (1):\penalty0 69--89, 2013.
+
+\bibitem[Mart{\'\i}nez et~al.(2023)Mart{\'\i}nez, Pla, Herrero, and Fern{\'a}ndez-P{\'e}rez]{martinez2023schwarz}
+D.~Mart{\'\i}nez, F.~Pla, H.~Herrero, and A.~Fern{\'a}ndez-P{\'e}rez.
+\newblock A schwarz alternating method for an evolution convection problem.
+\newblock \emph{Applied Numerical Mathematics}, 2023.
+
+\bibitem[Yan(2016)]{yan2016computational122}
+J.~Yan.
+\newblock \emph{Computational free-surface fluid-structure interaction with applications on offshore wind and tidal energy}.
+\newblock PhD thesis, University of California San Diego, 2016.
+
+\bibitem[Bazilevs et~al.(2008)Bazilevs, Calo, Hughes, and Zhang]{FSI1}
+Y.~Bazilevs, V.~Calo, T.J.R. Hughes, and Y.~Zhang.
+\newblock Isogeometric fluid-structure interaction: theory, algorithms, and computations.
+\newblock \emph{Computational mechanics}, 43\penalty0 (1):\penalty0 3--37, 2008.
+
+\bibitem[Khurram and Masud(2006)]{FSI2}
+R.~Khurram and A.~Masud.
+\newblock A multiscale/stabilized formulation of the incompressible navier--stokes equations for moving boundary flows and fluid--structure interaction.
+\newblock \emph{Computational Mechanics}, 38\penalty0 (4-5):\penalty0 403--416, 2006.
+
+\bibitem[Hsu and Bazilevs(2012)]{HsuBaz12a}
+M.-C. Hsu and Y.~Bazilevs.
+\newblock Fluid-structure interaction modeling of wind turbines: simulating the full machine.
+\newblock \emph{Computational Mechanics}, DOI: 10.1007/s00466-012-0772-0, 2012.
+
+\bibitem[Karypis and Kumar(1998)]{karypis1998fast}
+G.~Karypis and V.~Kumar.
+\newblock A fast and high quality multilevel scheme for partitioning irregular graphs.
+\newblock \emph{SIAM Journal on scientific Computing}, 20\penalty0 (1):\penalty0 359--392, 1998.
+
+\bibitem[Xu et~al.(2016{\natexlab{b}})Xu, Schillinger, Kamensky, Varduhn, Wang, and Hsu]{Xu16ig}
+F.~Xu, D.~Schillinger, D.~Kamensky, V.~Varduhn, C.~Wang, and M.-C. Hsu.
+\newblock {The tetrahedral finite cell method for fluids: Immersogeometric analysis of turbulent flow around complex geometries}.
+\newblock \emph{Computers {\&} Fluids}, 141:\penalty0 135--154, 2016{\natexlab{b}}.
+
+\bibitem[Bazilevs et~al.(2012)Bazilevs, Hsu, Takizawa, and Tezduyar]{bazilevs2012ale}
+Y.~Bazilevs, M.~Hsu, K.~Takizawa, and T.~Tezduyar.
+\newblock {ALE-VMS and ST-VMS methods for computer modeling of wind-turbine rotor aerodynamics and fluid--structure interaction}.
+\newblock \emph{Mathematical Models and Methods in Applied Sciences}, 22\penalty0 (supp02):\penalty0 1230002, 2012.
+
+\bibitem[Bazilevs et~al.(2007)Bazilevs, Calo, Cottrel, Hughes, Reali, and Scovazzi]{Bazilevs07b}
+Y.~Bazilevs, V.~M. Calo, J.~A. Cottrel, T.~J.~R. Hughes, A.~Reali, and G.~Scovazzi.
+\newblock Variational multiscale residual-based turbulence modeling for large eddy simulation of incompressible flows.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 197:\penalty0 173--201, 2007.
+
+\bibitem[Brooks and Hughes(1982)]{Brooks82a}
+A.~N. Brooks and T.~J.~R. Hughes.
+\newblock Streamline upwind/{P}etrov-{G}alerkin formulations for convection dominated flows with particular emphasis on the incompressible {N}avier--{S}tokes equations.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 32:\penalty0 199--259, 1982.
+
+\bibitem[Tezduyar(1992)]{Tezduyar91c}
+T.~E. Tezduyar.
+\newblock Stabilized finite element formulations for incompressible flow computations.
+\newblock \emph{Advances in Applied Mechanics}, 28:\penalty0 1--44, 1992.
+
+\bibitem[Hughes et~al.(1989)Hughes, Franca, and Hulbert]{hughes1989new}
+T.~Hughes, L.~Franca, and G.~Hulbert.
+\newblock A new finite element formulation for computational fluid dynamics: Viii. the galerkin/least-squares method for advective-diffusive equations.
+\newblock \emph{Computer methods in applied mechanics and engineering}, 73\penalty0 (2):\penalty0 173--189, 1989.
+
+\bibitem[Du et~al.(2023)Du, Zhao, Cheng, Yan, and He]{du2023modeling}
+H.~Du, Z.~Zhao, H.~Cheng, J.~Yan, and Q.~He.
+\newblock Modeling density-driven flow in porous media by physics-informed neural networks for co2 sequestration.
+\newblock \emph{Computers and Geotechnics}, 159:\penalty0 105433, 2023.
+
+\bibitem[Zhu and Yan(2021)]{zhu2021mixed}
+Q.~Zhu and J.~Yan.
+\newblock A mixed interface-capturing/interface-tracking formulation for thermal multi-phase flows with emphasis on metal additive manufacturing processes.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 383:\penalty0 113910, 2021.
+
+\bibitem[Zhao and Yan(2020)]{zhao2020variational}
+Z.~Zhao and J.~Yan.
+\newblock Variational multi-scale modeling of interfacial flows with a balanced-force surface tension model.
+\newblock \emph{Mechanics Research Communications}, page 103608, 2020.
+
+\bibitem[Kamensky et~al.(2017)Kamensky, Hsu, Yu, Evans, Sacks, and Hughes]{Kamensky2017}
+D.~Kamensky, M.-C. Hsu, Y.~Yu, J.~A. Evans, M.~S. Sacks, and T.~J.~R. Hughes.
+\newblock Immersogeometric cardiovascular fluid--structure interaction analysis with divergence-conforming {B}-splines.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 314:\penalty0 408--472, 2017.
+
+\bibitem[Hsu et~al.(2012)Hsu, Akkerman, and Bazilevs]{hsu2012wind}
+M.~Hsu, I.~Akkerman, and Y.~Bazilevs.
+\newblock Wind turbine aerodynamics using {ALE--VMS}: Validation and the role of weakly enforced boundary conditions.
+\newblock \emph{Computational Mechanics}, 50\penalty0 (4):\penalty0 499--511, 2012.
+
+\bibitem[Akkerman et~al.(2011)Akkerman, Bazilevs, Kees, and Farthing]{Akkerman11a}
+I.~Akkerman, Y.~Bazilevs, C.~E. Kees, and M.~W. Farthing.
+\newblock Isogeometric analysis of free-surface flow.
+\newblock \emph{Journal of Computational Physics}, 230:\penalty0 4137--4152, 2011.
+
+\bibitem[Akkerman et~al.(2012)Akkerman, Bazilevs, Benson, Farthing, and Kees]{Akkerman11b}
+I.~Akkerman, Y.~Bazilevs, D.~J. Benson, M.~W. Farthing, and C.~E. Kees.
+\newblock Free-surface flow and fluid--object interaction modeling with emphasis on ship hydrodynamics.
+\newblock \emph{Journal of Applied Mechanics}, 79:\penalty0 010905, 2012.
+
+\bibitem[Tezduyar and Osawa(2000)]{Tezduyar00a}
+T.~E. Tezduyar and Y.~Osawa.
+\newblock Finite element stabilization parameters computed from element matrices and vectors.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 190:\penalty0 411--430, 2000.
+
+\bibitem[Jansen et~al.(2000)Jansen, Whiting, and Hulbert]{jansen2000generalized}
+K.~E. Jansen, C.~H. Whiting, and G.~M. Hulbert.
+\newblock A generalized-$\alpha$ method for integrating the filtered {N}avier--{S}tokes equations with a stabilized finite element method.
+\newblock \emph{Computer Methods in Applied Mechanics and Engineering}, 190\penalty0 (3-4):\penalty0 305--319, 2000.
+
+\bibitem[Newmark(1959)]{newmark1959method}
+N.~M. Newmark.
+\newblock A method of computation for structural dynamics.
+\newblock \emph{Journal of the engineering mechanics division}, 85\penalty0 (3):\penalty0 67--94, 1959.
+
+\bibitem[Chung and Hulbert(1993)]{chung1993time}
+J.~Chung and G.~M. Hulbert.
+\newblock A time integration algorithm for structural dynamics with improved numerical dissipation: the generalized-$\alpha$ method.
+\newblock \emph{Journal of Applied Mechanics}, 60\penalty0 (2):\penalty0 371--375, 1993.
+
+\bibitem[Saad and Schultz(1986)]{Saad86a}
+Y.~Saad and M.~Schultz.
+\newblock {GMRES}: A generalized minimal residual algorithm for solving nonsymmetric linear systems.
+\newblock \emph{SIAM Journal of Scientific and Statistical Computing}, 7:\penalty0 856--869, 1986.
+
+\bibitem[Kim et~al.(2023)Kim, Yoon, Cheng, Liu, Kang, Paudel, Cho, Luan, Lee, Jeong, Huang, Lee, Cho, Lee, Han, Kim, Yan, Park, Jung, Chamorro, and Rogers]{kim2023flier}
+J.~Kim, H.~Yoon, S.~Cheng, F.~Liu, S.~Kang, S.~Paudel, D.~Cho, H.~Luan, M.~Lee, J.~Jeong, G.~Park, Y.~Huang, S.~Lee, M.~Cho, G.~Lee, M.~Han, B.~Kim, J.~Yan, Y.~Park, S.~Jung, L.~Chamorro, and J.~Rogers.
+\newblock Functional bio-inspired hybrid fliers with separated ring and leading edge vortices.
+\newblock \emph{Nature Communications}, 2023.
+
+\bibitem[Iyer et~al.(2022)Iyer, Gaensbauer, Daniel, and Gollakota]{iyer2022wind}
+V.~Iyer, H.~Gaensbauer, T.~L. Daniel, and S.~Gollakota.
+\newblock Wind dispersal of battery-free wireless devices.
+\newblock \emph{Nature}, 603\penalty0 (7901):\penalty0 427--433, 2022.
+
+\bibitem[Cummins et~al.(2018)Cummins, Seale, Macente, Certini, Mastropaolo, Viola, and Nakayama]{cummins2018separated}
+C.~Cummins, M.~Seale, A.~Macente, D.~Certini, E.~Mastropaolo, I.~M. Viola, and N.~Nakayama.
+\newblock A separated vortex ring underlies the flight of the dandelion.
+\newblock \emph{Nature}, 562\penalty0 (7727):\penalty0 414--418, 2018.
+
+\bibitem[Lentink et~al.(2009)Lentink, Dickson, Van~Leeuwen, and Dickinson]{lentink2009leading}
+D.~Lentink, W.~B. Dickson, J.~L. Van~Leeuwen, and M.~H. Dickinson.
+\newblock Leading-edge vortices elevate lift of autorotating plant seeds.
+\newblock \emph{Science}, 324\penalty0 (5933):\penalty0 1438--1440, 2009.
+
+\end{thebibliography}
